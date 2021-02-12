@@ -2,7 +2,8 @@
 
 > Generate Password Helper on Vanilla JS
 
-### [Demo]()
+### [Demo](http://password-generate-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://nimb.ws/KFkNg3)
 
 ### Get started
 
